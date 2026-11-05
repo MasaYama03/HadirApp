@@ -1,0 +1,31 @@
+{
+  "source":"https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027",
+  "holidays":[
+    {"date":"2027-01-01","name":"Tahun Baru Masehi","type":"national"},
+    {"date":"2027-01-05","name":"Isra Mikraj Nabi Muhammad SAW","type":"national"},
+    {"date":"2027-02-06","name":"Tahun Baru Imlek","type":"national"},
+    {"date":"2027-03-08","name":"Hari Suci Nyepi","type":"national"},
+    {"date":"2027-03-10","name":"Idulfitri 1448 H","type":"national"},
+    {"date":"2027-03-11","name":"Idulfitri 1448 H","type":"national"},
+    {"date":"2027-03-26","name":"Wafat Yesus Kristus","type":"national"},
+    {"date":"2027-03-28","name":"Kebangkitan Yesus Kristus (Paskah)","type":"national"},
+    {"date":"2027-05-01","name":"Hari Buruh Internasional","type":"national"},
+    {"date":"2027-05-06","name":"Kenaikan Yesus Kristus","type":"national"},
+    {"date":"2027-05-17","name":"Iduladha 1448 H","type":"national"},
+    {"date":"2027-05-20","name":"Hari Raya Waisak","type":"national"},
+    {"date":"2027-06-01","name":"Hari Lahir Pancasila","type":"national"},
+    {"date":"2027-06-06","name":"Tahun Baru Islam 1449 H","type":"national"},
+    {"date":"2027-08-15","name":"Maulid Nabi Muhammad SAW","type":"national"},
+    {"date":"2027-08-17","name":"Hari Kemerdekaan Republik Indonesia","type":"national"},
+    {"date":"2027-12-25","name":"Hari Raya Natal","type":"national"},
+    {"date":"2027-12-26","name":"Isra Mikraj Nabi Muhammad SAW","type":"national"},
+    {"date":"2027-02-05","name":"Cuti bersama Tahun Baru Imlek","type":"collective"},
+    {"date":"2027-03-09","name":"Cuti bersama Idulfitri","type":"collective"},
+    {"date":"2027-03-12","name":"Cuti bersama Idulfitri","type":"collective"},
+    {"date":"2027-03-15","name":"Cuti bersama Idulfitri","type":"collective"},
+    {"date":"2027-03-25","name":"Cuti bersama Wafat Yesus Kristus","type":"collective"},
+    {"date":"2027-05-18","name":"Cuti bersama Iduladha","type":"collective"},
+    {"date":"2027-05-19","name":"Cuti bersama Waisak","type":"collective"},
+    {"date":"2027-12-24","name":"Cuti bersama Natal","type":"collective"}
+  ]
+}

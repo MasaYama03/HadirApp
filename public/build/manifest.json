@@ -1,0 +1,17 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Bf7NyTKJ.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/fonts/PlusJakartaSans-Variable.ttf": {
+    "file": "assets/PlusJakartaSans-Variable-BZU_LQer.ttf",
+    "src": "resources/fonts/PlusJakartaSans-Variable.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Cm8oCnIe.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
