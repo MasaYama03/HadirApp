@@ -164,7 +164,7 @@ Data seeder dan snapshot SQL digunakan untuk demonstrasi. Akun Masahiro mengguna
 - **Jadwal:** atur hari kerja, jam, toleransi, WFH/WFO, ketentuan libur nasional/cuti bersama, dan pengecualian tanggal.
 - **Laporan:** pilih rentang tanggal dan peserta, lalu klik Ekspor Excel. Berkas `.xlsx` berisi tabel sederhana dengan header kuning dan mengikuti seluruh hasil filter.
 
-Panduan fitur dan penggunaan juga tersedia pada `Panduan Penggunaan Hadir.docx` di direktori ini.
+Panduan fitur dan penggunaan tersedia dalam [Panduan Demo App Hadir.pdf](Panduan%20Demo%20App%20Hadir.pdf).
 
 ## Mengubah frontend
 
